@@ -1,16 +1,28 @@
-### Hi there 👋
+## Welcome to my profile!
 
-<!--
-**bandrw/bandrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills:**
 
-Here are some ideas to get you started:
+<table align="center" height="120">
+	<tr>
+		<td align="center" width="100">
+      <img src="img/c.png" height="70px" width="70px">
+			C
+		</td>
+		<td align="center" width="100">
+      <img src="img/cpp.png" height="70px" width="70px">
+			C++
+		</td>
+		<td align="center" width="100">
+      <img src="img/java.png" height="70px" width="70px">
+			Java
+		</td>
+		<td align="center" width="100">
+      <img src="img/python.png" height="70px" width="70px">
+			Python
+		</td>
+	</tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contacts:**
+
+<img src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png" width="40px" align="center">[@bandrw](https://t.me/bandrw)
