@@ -1,1 +1,2 @@
 kpfu/2_course/p4mi/p4mi.mp4 filter=lfs diff=lfs merge=lfs -text
+cub3D/cub3D.mov filter=lfs diff=lfs merge=lfs -text
