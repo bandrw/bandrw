@@ -2,7 +2,29 @@
 
 **Skills:**
 
-<table align="center" height="120">
+<table align="center" height="240">
+	<tr>
+		<td align="center" width="100">
+			<img src="img/js.png" height="70px" width="70px">
+			JavaScript
+		</td>
+		<td align="center" width="100">
+			<img src="img/react.png" height="70px" width="70px">
+			React
+		</td>
+		<td align="center" width="100">
+			<img src="img/nodejs.png" height="70px" width="70px">
+			Node.js
+		</td>
+		<td align="center" width="100">
+			<img src="img/nestjs.png" height="70px" width="70px">
+			NestJS
+		</td>
+		<td align="center" width="100">
+			<img src="img/docker.png" height="70px" width="70px">
+			Docker
+		</td>
+	</tr>
 	<tr>
 		<td align="center" width="100">
 			<img src="img/c.png" height="70px" width="70px">
@@ -26,10 +48,6 @@
 		</td>
 	</tr>
 </table>
-
-**Projects demo:**
-
-https://bandrw.github.io/bandrw
 
 **Contacts:**
 
